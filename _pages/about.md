@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests are recommender systems, fairness, and time series. I am currently a Ph.D student in xxxxx at XDU since the fall of 2020 under the supervision of Prof. Xi Chen. I received my Bachelor’s Degree in xxxx from xxxx University. 
-I have worked on dynamic graph algorithms as a visiting student at the University of British Columbia under the supervision of Prof. Matei Ripeanu, which was supported by Mitacs globalink research internship and China Scholarship Council.
+My current research interests are recommender systems, fairness, and time series. I am currently a Ph.D student at the School of Economics & Management, Xidian University, since the fall of 2020 under the supervision of Prof. Xi Chen. My research interests include environmental policy evaluation, machine learning, and causal inference.
 
 News
 ======
 - 2022.12.01 One paper was accepted to the Journal of Environmental Management.
+- 2022.08.04 One paper was accepted to the Environmental Science and Pollution Research.
 
