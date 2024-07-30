@@ -34,11 +34,11 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 
 *IEEE Transactions on Multimedia (TMM), 2024*
 
-[**Paper**(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+[[**Paper**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# :medal_military: Honors and Awards
 - *2023.10* Excellent Student Cadre, Xidian University
 - *2020.06* Outstanding Graduate, Dalian Maritime University
 - *2018.08* Second Prize, Liaoning Undergraduate Electronic Design Contest
