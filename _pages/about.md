@@ -38,7 +38,7 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 </div>
 </div>
 
-# :medal_military: Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.10* Excellent Student Cadre, Xidian University
 - *2020.06* Outstanding Graduate, Dalian Maritime University
 - *2018.08* Second Prize, Liaoning Undergraduate Electronic Design Contest
