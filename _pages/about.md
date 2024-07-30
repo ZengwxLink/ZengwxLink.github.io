@@ -30,7 +30,7 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 
 Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Grounding
 
-<p style="font-size:12px">**Kefan Tang**, Lihuo He, Nannan Wang, Xinbo Gao</p>
+<p style="font-size:18px"><strong>Kefan Tang</strong>, Lihuo He, Nannan Wang, Xinbo Gao</p>
 
 *IEEE Transactions on Multimedia (TMM), 2024*
 
