@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engineering, Xidian University, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received a B.E. degree in Automation from Dalian Maritime University in 2020. My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
+Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engineering, Xidian University, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received a B.E. degree in Automation from Dalian Maritime University in 2020. My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
 
 
 # 🔥 News
