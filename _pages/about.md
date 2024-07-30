@@ -34,7 +34,7 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 
 *IEEE Transactions on Multimedia (TMM), 2024*
 
-Process video features by distinctly correlating object features with nouns and motion features with verbs to mimic the human brain’s parsing mechanism.
+Correlate object features with nouns and motion features with verbs distinctly, mimicking the human brain’s parsing mechanism.
 
 [**Paper**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 </div>
