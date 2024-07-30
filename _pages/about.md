@@ -25,7 +25,7 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/DSRN.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/DSRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Grounding
@@ -37,6 +37,7 @@ Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Gro
 Process video features by distinctly correlating object features with nouns and motion features with verbs to mimic the human brain’s parsing mechanism.
 
 [**Paper**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+</div>
 </div>
 
 # 🎖 Honors and Awards
