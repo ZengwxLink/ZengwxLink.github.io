@@ -25,7 +25,7 @@ Hi! I'm Kefan Tang, a third-year Ph.D. student at the School of Electronic Engin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/DSRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Grounding
