@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kefan Tang (汤可凡)"
+  name             : "Kefan Tang"
+  zh_name          : "汤可凡"
   avatar           : "images/photo.png"
   bio              : "PhD student@XDU"
-  location         : "Xi'an, Shaanxi, China"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : kftang98@gmail.com
+  email            : "kftang98@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
