@@ -128,11 +128,29 @@
   }
 }
 
+.author__zh__name {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
 .sidebar .author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
   font-family: $sans-serif;
+  font-size: $type-size-4;
+}
+
+
+.sidebar .author__zh__name {
+  @include breakpoint($medium) {
+    font-size: $type-size-3;
+  }
+  font-family: $kaiti;
   font-size: $type-size-4;
 }
 
