@@ -41,10 +41,11 @@ Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engi
 
 - <p style="font-size:16px"><strong>Does COVID-19 lockdown matter for air pollution in the short and long run in China? A machine learning approach to policy evaluation</strong></p>
 
-Wenxia Zeng, Xi Chen, **Kefan Tang**, and Yifan Qin
+  Wenxia Zeng, Xi Chen, **Kefan Tang**, and Yifan Qin
 
-*Journal of Environmental Management (JEMA), 2024*
-[[**paper**](https://www.sciencedirect.com/science/article/pii/S030147972402601X)]
+  *Journal of Environmental Management (JEMA), 2024*
+  
+  [[**paper**](https://www.sciencedirect.com/science/article/pii/S030147972402601X)]
 
 
 # 🎖 Honors and Awards
