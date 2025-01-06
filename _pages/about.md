@@ -35,7 +35,7 @@ Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engi
 
 *IEEE Transactions on Multimedia (TMM), 2024*
 
-[[**Paper**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+[[**Paper**](https://ieeexplore.ieee.org/abstract/document/10820011/)]
 </div>
 </div>
 
