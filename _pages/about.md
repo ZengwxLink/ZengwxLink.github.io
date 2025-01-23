@@ -56,6 +56,6 @@ Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engi
 
 
 # 📖 Educations
-- *2025.01 - 2026.01*, Visiting Research Student Computer Science, National University of Singapore, Singapore
+- *2025.01 - 2026.01*, Visiting Research Student, National University of Singapore, Singapore
 - *2020.09 - present*, Ph.D. in Control Science & Engineering, Xidian University, Xi'an, China 
 - *2016.09 - 2020.06*, B.E. in Automation, Dalian Maritime University, Dalian, China 
