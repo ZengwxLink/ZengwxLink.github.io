@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engineering, Xidian University, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received a B.E. degree in Automation from Dalian Maritime University in 2020. <!--I'm currently a visiting student at [NExT++ Lab](https://www.nextcenter.org/) at the National University of Singapore, advised by [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/).--> My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
+Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engineering, Xidian University, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received a B.E. degree in Automation from Dalian Maritime University in 2020. I am currently a visiting student at [NExT++ Lab](https://www.nextcenter.org/) at the National University of Singapore, advised by [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
 
 
 # 🔥 News
@@ -49,11 +49,13 @@ Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engi
 
 
 # 🎖 Honors and Awards
+- *2024.11* National Scholarship, Xidian University
 - *2023.10* Excellent Student Cadre, Xidian University
 - *2020.06* Outstanding Graduate, Dalian Maritime University
 - *2018.08* Second Prize, Liaoning Undergraduate Electronic Design Contest
 
 
 # 📖 Educations
+- *2025.01 - 2026.01*, Visiting Research Student Computer Science, National University of Singapore, Singapore
 - *2020.09 - present*, Ph.D. in Control Science & Engineering, Xidian University, Xi'an, China 
 - *2016.09 - 2020.06*, B.E. in Automation, Dalian Maritime University, Dalian, China 
