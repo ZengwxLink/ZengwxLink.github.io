@@ -54,7 +54,9 @@ Hi! I am Wenxia Zeng, a final year Ph.D. candidate at the School of Economics an
 </div>
 
 
-- <p style="font-size:16px"><strong>Spatiotemporal heterogeneity and influencing factors on urbanization and eco-environment coupling mechanism in China</strong></p>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR 2022/div><img src='images/ESPR22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p style="font-size:16px"><strong>Spatiotemporal heterogeneity and influencing factors on urbanization and eco-environment coupling mechanism in China</strong></p>
 
 **Wenxia Zeng**, Xi Chen, Qirui Wu, and Huizhong Dong
 
