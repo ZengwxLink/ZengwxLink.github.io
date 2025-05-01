@@ -17,45 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Kefan Tang, a third-year Ph.D. student at the School of Electronic Engineering, Xidian University, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received a B.E. degree in Automation from Dalian Maritime University in 2020. I am currently a visiting student at [NExT++ Lab](https://www.nextcenter.org/) at the National University of Singapore, advised by [Prof. Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
+Hi! I am Wenxia Zeng, a final year Ph.D. candidate at the School of Economics and Management, Xidian University, supervised by [Prof. Xi Chen](https://faculty.xidian.edu.cn/CX5/zh_CN/index.htm). Prior to that, I received a M.S. degree in Management Science and Engineering from Shandong University of Technology in 2020, supervised by [Prof. Huizhong Dong](https://bs.sdut.edu.cn/2019/0415/c10959a279847/page.htm). My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper was accepted to IEEE Transactions on Multimedia (TMM).
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted to Journal of Environmental Management (JEMA).
+- *2022.11*: &nbsp;🎉🎉 One paper was accepted to Journal of Environmental Management (JEMA).
+- *2022.08*: &nbsp;🎉🎉 One paper was accepted to Environmental Science and Pollution Research (ESPR).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/DSRN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/JEMA24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p style="font-size:16px"><strong>Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Grounding</strong></p>
+<p style="font-size:16px"><strong>Does COVID-19 lockdown matter for air pollution in the short and long run in China? A machine learning approach to policy evaluation</strong></p>
 
-**Kefan Tang**, Lihuo He, Nannan Wang, and Xinbo Gao
+**Wenxia Zeng**, Xi Chen, Kefan Tang, and Yifan Qin
 
-*IEEE Transactions on Multimedia (TMM), 2024*
+*Journal of Environmental Management (JEMA), 2024*
 
-[[**Paper**](https://ieeexplore.ieee.org/abstract/document/10820011/)]
+[[**Paper**](https://www.sciencedirect.com/science/article/pii/S030147972402601X)]
 </div>
 </div>
 
-- <p style="font-size:16px"><strong>Does COVID-19 lockdown matter for air pollution in the short and long run in China? A machine learning approach to policy evaluation</strong></p>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2023</div><img src='images/JEMA22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  Wenxia Zeng, Xi Chen, **Kefan Tang**, and Yifan Qin
+<p style="font-size:16px"><strong>Doing more with less: How to design a good subgroup governance model for the air pollution transport network in “2+26” cities of China?</strong></p>
 
-  *Journal of Environmental Management (JEMA), 2024*
-  
-  [[**paper**](https://www.sciencedirect.com/science/article/pii/S030147972402601X)]
+**Wenxia Zeng**, Xi Chen, Huizhong Dong, and Yanping Liu
+
+*Journal of Environmental Management (JEMA), 2022*
+
+[[**Paper**](https://www.sciencedirect.com/science/article/pii/S0301479722024823)]
+</div>
+</div>
+
+
+- <p style="font-size:16px"><strong>Spatiotemporal heterogeneity and influencing factors on urbanization and eco-environment coupling mechanism in China</strong></p>
+
+**Wenxia Zeng**, Xi Chen, Qirui Wu, and Huizhong Dong
+
+*Environmental Science and Pollution Research (ESPR), 2022*
+
+[[**Paper**](https://link.springer.com/article/10.1007/s11356-022-22042-8)]
 
 
 # 🎖 Honors and Awards
-- *2024.11* National Scholarship, Xidian University
-- *2023.10* Excellent Student Cadre, Xidian University
-- *2020.06* Outstanding Graduate, Dalian Maritime University
-- *2018.08* Second Prize, Liaoning Undergraduate Electronic Design Contest
+- *2020-2024* Academic Scholarship, Xidian University
 
 
 # 📖 Educations
-- *2025.01 - 2026.01*, Visiting Research Student, National University of Singapore, Singapore
-- *2020.09 - present*, Ph.D. in Control Science & Engineering, Xidian University, Xi'an, China 
-- *2016.09 - 2020.06*, B.E. in Automation, Dalian Maritime University, Dalian, China 
+- *2020.09 - 2025.06*, Ph.D. in Management Science and Engineering, Xidian University, Xi'an, China 
+- *2017.09 - 2020.06*, B.E. in Management Science and Engineering, Shandong University of Technology, Zibo, China 
