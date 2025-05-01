@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kefan Tang"
+title                    : "Wenxia Zeng"
 description              : ""
-repository               : "Tangkfan/Tangkfan.github.io"
+repository               : "ZengwxLink/ZengwxLink.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kefan Tang"
-  zh_name          : "汤可凡"
+  name             : "Wenxia Zeng"
+  zh_name          : "曾文霞"
   avatar           : "images/photo.png"
-  bio              : "PhD student@XDU"
+  bio              : "PhD candidate@XDU"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=EBAhHIYAAAAJ&hl=zh-CN&oi=sra"
-  email            : "kftang98@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HcL4ccsAAAAJ&hl=zh-CN&oi=sra"
+  email            : "zengwx@stu.xidian.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
