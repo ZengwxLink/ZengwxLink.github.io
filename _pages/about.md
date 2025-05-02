@@ -54,7 +54,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2023</div><img src='images/ESPR22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR 2022</div><img src='images/ESPR22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-size:16px"><strong>Spatiotemporal heterogeneity and influencing factors on urbanization and eco-environment coupling mechanism in China</strong></p>
@@ -76,7 +76,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 *科技管理研究, 2020*
 
-[[**Paper**]('docs/山东省创新网络演变特征及影响因素分析.pdf')]
+[[**Paper**](docs/山东省创新网络演变特征及影响因素分析.pdf)]
 </div>
 </div>
 
@@ -89,7 +89,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 *中国环境科学, 2019*
 
-[[**Paper**]('docs/土地生态系统脆弱性时空演化特征及影响因素——以黄河三角洲高效生态经济区为例.pdf')]
+[[**Paper**](docs/土地生态系统脆弱性时空演化特征及影响因素——以黄河三角洲高效生态经济区为例.pdf)]
 </div>
 </div>
 
