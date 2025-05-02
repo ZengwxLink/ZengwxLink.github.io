@@ -89,7 +89,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 *中国环境科学, 2019*
 
-[[**Paper**](docs/土地生态系统脆弱性时空演化特征及影响因素——以黄河三角洲高效生态经济区为例.pdf)]
+[[**Paper**](docs/土地生态系统脆弱性时空演化特征及影响因素.pdf)]
 </div>
 </div>
 
