@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Wenxia Zeng, a final year Ph.D. candidate at the School of Economics and Management, Xidian University, supervised by [Prof. Xi Chen](https://faculty.xidian.edu.cn/CX5/zh_CN/index.htm). Prior to that, I received a M.S. degree in Management Science and Engineering from Shandong University of Technology in 2020, supervised by [Prof. Huizhong Dong](https://bs.sdut.edu.cn/2019/0415/c10959a279847/page.htm). My research interests include Multimodal Information Retrieval, Computer Vision, and Natural Language Processing.
+Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of Economics and Management, Xidian University, supervised by [Prof. Xi Chen](https://faculty.xidian.edu.cn/CX5/zh_CN/index.htm). Prior to that, I received a M.S. degree in Management Science and Engineering from Shandong University of Technology in 2020, supervised by [Prof. Huizhong Dong](https://bs.sdut.edu.cn/2019/0415/c10959a279847/page.htm). My research interests include Environmental Economics, Policy Evaluation, Machine Learning, Causal Inference, Social Network Analysis.
 
 
 # 🔥 News
@@ -63,6 +63,8 @@ Hi! I am Wenxia Zeng, a final year Ph.D. candidate at the School of Economics an
 *Environmental Science and Pollution Research (ESPR), 2022*
 
 [[**Paper**](https://link.springer.com/article/10.1007/s11356-022-22042-8)]
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
