@@ -76,7 +76,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 *科技管理研究, 2020*
 
-[[**Paper**](docs/山东省创新网络演变特征及影响因素分析.pdf)]
+[[**Paper**](https://github.com/ZengwxLink/ZengwxLink.github.io/blob/main/docs/%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%88%9B%E6%96%B0%E7%BD%91%E7%BB%9C%E6%BC%94%E5%8F%98%E7%89%B9%E5%BE%81%E5%8F%8A%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0%E5%88%86%E6%9E%90.pdf)]
 </div>
 </div>
 
@@ -89,7 +89,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 *中国环境科学, 2019*
 
-[[**Paper**](docs/土地生态系统脆弱性时空演化特征及影响因素.pdf)]
+[[**Paper**](https://github.com/ZengwxLink/ZengwxLink.github.io/blob/main/docs/%E5%9C%9F%E5%9C%B0%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E8%84%86%E5%BC%B1%E6%80%A7%E6%97%B6%E7%A9%BA%E6%BC%94%E5%8C%96.pdf)]
 </div>
 </div>
 
