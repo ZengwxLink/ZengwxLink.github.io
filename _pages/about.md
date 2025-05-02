@@ -54,8 +54,9 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESPR 2022/div><img src='images/ESPR22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2023</div><img src='images/ESPR22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 <p style="font-size:16px"><strong>Spatiotemporal heterogeneity and influencing factors on urbanization and eco-environment coupling mechanism in China</strong></p>
 
 **Wenxia Zeng**, Xi Chen, Qirui Wu, and Huizhong Dong
@@ -66,6 +67,37 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">科技管理研究 2020</div><img src='images/科技管理研究.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p style="font-size:16px"><strong>山东省创新网络演变特征及影响因素分析</strong></p>
+
+**曾文霞**, 董会忠, 盛科荣, 和赵蕾
+
+*科技管理研究, 2020*
+
+[[**Paper**]('docs/山东省创新网络演变特征及影响因素分析.pdf')]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国环境科学 2019</div><img src='images/中国环境科学.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p style="font-size:16px"><strong>土地生态系统脆弱性时空演化特征及影响因素——以黄河三角洲高效生态经济区为例</strong></p>
+
+张帅, 董会忠, 和**曾文霞**
+
+*中国环境科学, 2019*
+
+[[**Paper**]('docs/土地生态系统脆弱性时空演化特征及影响因素——以黄河三角洲高效生态经济区为例.pdf')]
+</div>
+</div>
+
+# 📝 Working Paper
+- <p style="font-size:16px"><strong>Green or fair, or can we have both？ Rethinking the effects of regional air pollution policies on air quality and related disparities in China</strong></p>
+
+- <p style="font-size:16px"><strong>Does regional environmental policy trigger “Boundary effects” in air pollution？New evidence from “2+26” cities in China</strong></p>
+
 
 # 🎖 Honors and Awards
 - *2020-2024* Academic Scholarship, Xidian University
@@ -73,4 +105,4 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D. in Management Science and Engineering, Xidian University, Xi'an, China 
-- *2017.09 - 2020.06*, B.E. in Management Science and Engineering, Shandong University of Technology, Zibo, China 
+- *2017.09 - 2020.06*, M.S. in Management Science and Engineering, Shandong University of Technology, Zibo, China 
