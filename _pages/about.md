@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of Economics and Management, Xidian University, supervised by [Prof. Xi Chen](https://faculty.xidian.edu.cn/CX5/zh_CN/index.htm). Prior to that, I received a M.S. degree in Management Science and Engineering from Shandong University of Technology in 2020, supervised by [Prof. Huizhong Dong](https://bs.sdut.edu.cn/2019/0415/c10959a279847/page.htm). My research interests include Environmental Economics, Policy Evaluation, Machine Learning, Causal Inference, Social Network Analysis.
+Hi! I am Wenxia Zeng (曾文霞). I obtained Ph.D. degree at the School of Economics and Management from Xidian University in 2025, supervised by [Prof. Xi Chen](https://faculty.xidian.edu.cn/CX5/zh_CN/index.htm). Prior to that, I received a M.S. degree in Management Science and Engineering from Shandong University of Technology in 2020, supervised by [Prof. Huizhong Dong](https://bs.sdut.edu.cn/2019/0415/c10959a279847/page.htm). My research interests include Environmental Economics, Policy Evaluation, Machine Learning, Causal Inference, Social Network Analysis.
 
 
 # 🔥 News
@@ -101,6 +101,7 @@ Hi! I am Wenxia Zeng (曾文霞), a final year Ph.D. candidate at the School of 
 
 # 🎖 Honors and Awards
 - *2020-2024* Academic Scholarship, Xidian University
+- *2024* Second prize for outstanding scientific and technological research achievements in higher education, Shaanxi Province
 
 
 # 📖 Educations
